@@ -22,4 +22,8 @@ O projeto consiste em duas classes:
 * Hero: Classe genérica que representa o herói, com propriedades como nome, idade e tipo. Inclui o método atacar() que exibe a mensagem de ataque de acordo com o tipo do herói e em uma cor correspondente.
 * Main: Classe principal que lida com a entrada do usuário, criando instâncias da classe Heroi e chamando o método atacar() para cada herói.
 
-<br>
+
+# Gratidão
+Agradeço por visitar este projeto! Espero que este exemplo ajude você a explorar e a praticar mais Java. Conecte-se comigo para trocarmos ideias:
+
+[![Linkedin](https://img.shields.io/badge/DANIELA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-velter-231485f/)
