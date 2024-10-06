@@ -20,6 +20,7 @@ Este é um projeto simples em Java que permite ao usuário criar heróis com car
 O projeto consiste em duas classes:
 
 * Hero: Classe genérica que representa o herói, com propriedades como nome, idade e tipo. Inclui o método atacar() que exibe a mensagem de ataque de acordo com o tipo do herói e em uma cor correspondente.
+* Colors: Classe está constantes de cores ANSI para deixa interativo e dinamico para o usuário.
 * Main: Classe principal que lida com a entrada do usuário, criando instâncias da classe Heroi e chamando o método atacar() para cada herói.
 
 
