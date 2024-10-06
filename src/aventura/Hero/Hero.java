@@ -1,17 +1,17 @@
 package aventura.Hero;
+import static aventura.Hero.Colors.BLUE;
+import static aventura.Hero.Colors.RED;
+import static aventura.Hero.Colors.GREEN;
+import static aventura.Hero.Colors.CYAN;
+import static aventura.Hero.Colors.YELLOW;
+import static aventura.Hero.Colors.RESET;
+
 
 public class Hero<T> {
     private String nome;
     private int idade;
     private T tipo;
 
-    // Cores para terminal (ANSI)
-    public static final String RESET = "\u001B[0m";
-    public static final String RED = "\u001B[31m";
-    public static final String GREEN = "\u001B[32m";
-    public static final String YELLOW = "\u001B[33m";
-    public static final String BLUE = "\u001B[34m";
-    public static final String CYAN = "\u001B[36m";
 
     // Construtor da classe
     public Hero(String nome, int idade, T tipo) {

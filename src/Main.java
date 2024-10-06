@@ -1,6 +1,4 @@
-
 import aventura.Hero.Hero;
-
 import java.util.Scanner;
 
 // Classe principal para interagir com o usuário e testar a classe Herói
